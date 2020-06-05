@@ -8,7 +8,7 @@ const isDev = require("electron-is-dev");
 let mainWindow;
 
 require("update-electron-app")({
-  repo: "kitze/react-electron-example",
+  repo: "kaditya97/electron_react_template",
   updateInterval: "1 hour"
 });
 
